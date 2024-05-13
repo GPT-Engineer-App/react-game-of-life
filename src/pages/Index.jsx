@@ -66,6 +66,7 @@ const Index = () => {
 
   return (
     <Container maxW="container.xl" centerContent>
+      Game of life
       <Box w="100%" p={4}>
         <Button
           onClick={() => {
